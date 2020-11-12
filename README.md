@@ -4,8 +4,9 @@
 
 - [x] [AWS Certified Cloud Practitioner Training 2020 - Full Course - YouTube](https://youtu.be/3hLmDS179YE), [📓 notes](fcc-ccp-training-2020.md).
 - [ ] [AWS Training - AWS Cloud Practitioner Essentials (Second Edition)](https://www.aws.training/Details/Curriculum?id=27076), [📓 notes](aws-training.md)
-- [ ] [AWS CCP Actual Questions](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/1/), made the Anki flashcards. There are some crazily incorrect and also debatable answers in the website. But anyways, I've fixed those ones and I also had my own judgement.
-- [ ] [repo2](https://github.com/learnable-content/aws-ccp)
+- [x] [AWS CCP Actual Questions](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/1/), made the Anki flashcards. There are some crazily incorrect and also debatable answers in the website. But anyways, I've fixed those ones and I also had my own judgement.
+  - Downloable [Anki deck](https://ankiweb.net/shared/info/795240097). Of course you can grab it in this repo as well.
+- [ ] [learnable-content/aws-ccp](https://github.com/learnable-content/aws-ccp)
 - [ ] White papers (super boring, not ideal review content for ccp test)
   - [ ] [Overview of Amazon Web Services](whitepaper/aws-overview.pdf), August 2020.
   - [ ] [AWS Well-Architected Framework](whitepaper/AWS_Well-Architected_Framework.pdf), August 2020.
