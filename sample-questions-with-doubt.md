@@ -170,5 +170,3 @@ C. Project management
 D. Operating system administration
 
 D, not 100% sure.
-
-## Q12
